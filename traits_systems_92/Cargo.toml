@@ -1,0 +1,6 @@
+[package]
+name = "traits_systems_92"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
